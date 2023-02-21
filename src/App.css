@@ -1,0 +1,30 @@
+
+.nav-bar{
+  background-color: rgb(131, 204, 72);
+  font-size: 27px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  position:static;
+ padding: 11px;
+
+}
+
+.list{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  position: sticky;
+}
+
+.user{
+  background-color: rgb(194, 192, 63);
+  border: solid red 11px;
+  padding: 11px;
+}
+
+.home{
+  font-size: 48px;
+  text-align: center;
+ 
+}
